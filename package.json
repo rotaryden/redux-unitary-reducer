@@ -1,0 +1,17 @@
+{
+  "name": "redux-unitary-reducer",
+  "description": "Single reducer for Redux application with multiple simpler-written handlers",
+  "homepage": "https://github.com/krambuhl/npm-module-boilerplate",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rotaryden/redux-unitary-reducer.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
