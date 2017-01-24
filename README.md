@@ -1,8 +1,6 @@
 redux-unitary-reducer
 ===
 
-#WARNING! WIP. May not conform to Redux philosophy.
-
 Implements a reducers aggregator for Redux, where we have only one root reducer
 with additional management sugar, and simpler sub-handlers for action types.
 
